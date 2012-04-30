@@ -29,3 +29,7 @@ To use a shape, include the library and place the variable in the CSS content at
 			content: @ushape_arrow_down;
 			}
 		}
+		
+## Browser Support
+
+If you're concerned about backwards compatibility for older browsers, there is a community add-on in Modernizr that can be used to test for unicode support.
